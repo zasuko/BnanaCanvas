@@ -1,0 +1,5 @@
+{
+  "name": "Banana Canvas",
+  "description": "An AI-powered image generation tool that creates new artwork by combining reference images, a hand-drawn pose, and a text prompt using Google's Gemini API.",
+  "requestFramePermissions": []
+}
